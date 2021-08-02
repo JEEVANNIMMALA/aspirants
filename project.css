@@ -59,7 +59,7 @@
     height: 90%;
     width: 100%;
     background-color: rgb(17, 5, 5);
-    background-image: url('./images/banner.jpg');
+    background-image: url('./banner.jpg');
 }
 .overlay{
     height:100%;
