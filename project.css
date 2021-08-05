@@ -109,6 +109,26 @@
   transition: 1s;
 }
 
+.layered-card {
+  display:block;
+  border-radius: 30px;
+  padding:40px 15px;
+  background-color: black;
+  margin-left: 120px;
+  width:900px;
+  height:300px;
+  align-items: center;
+ 
+  
+}
+.lu_head{
+  color: yellow;
+  
+}
+.lu_content{
+  color: yellow;
+  font-size: 20px;
+}
 .services{
     padding-top: 50px;
     padding-bottom: 50px;
